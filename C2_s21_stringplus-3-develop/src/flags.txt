@@ -1,0 +1,1 @@
+gcc-11 -Wall -Werror -Wextra *.c -lcheck -lsubunit -pthread -lrt -lm -fprofile-arcs -ftest-coverage
